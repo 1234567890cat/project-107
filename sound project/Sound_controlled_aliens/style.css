@@ -1,0 +1,17 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background: darkblue;
+    color: whitesmoke;
+
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    width: 100%;
+    font-size: 19px;
+    line-height: 5;
+    text-align: center;
+    text-shadow:  5px 5px 5px rgb(151, 149, 149);
+    position: fixed;
+}
